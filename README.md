@@ -8,6 +8,8 @@
     2. Speak or type your custom instruction or query.
     3. The AI Assistant will process your input and provide a response based on the query.
 
+![Custom Prompt UI](IMG-20250208-WA0022.jpg)
+
 ### 2. Custom Prompt with Image:
 
 - **Purpose:** Combine a custom prompt with an image for more context-specific responses.
@@ -15,6 +17,8 @@
     1. Open the app and go to the custom prompt and image upload section.
     2. Speak or type your custom instruction and upload an image.
     3. The AI Assistant will analyze the image in conjunction with your prompt to provide a relevant response.
+
+![Custom Prompt with Image UI](IMG-20250208-WA0023.jpg)
 
 ### 3. Describe Image:
 
@@ -24,6 +28,8 @@
     2. Upload or capture an image using the app's camera.
     3. The AI Assistant will generate a descriptive text summarizing the content of the image.
 
+![Describe Image UI](IMG-20250208-WA0024.jpg)
+
 ### 4. Image to Text:
 
 - **Purpose:** Extracts and displays text from an image.
@@ -32,7 +38,11 @@
     2. Upload or capture an image that contains text.
     3. The AI Assistant will process the image and provide the extracted text for you to view.
 
-# Technologies:
+![Image to Text UI](IMG-20250208-WA0025.jpg)
+
+---
+
+### Technologies:
 - Kotlin
 - Jetpack Compose for UI development
 - Navigation
