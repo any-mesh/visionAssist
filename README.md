@@ -44,10 +44,7 @@
 
 Watch the demo video of the Blind App:
 
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/any-mesh/visionAssist/blob/main/demo.mp4
 
 ---
 
