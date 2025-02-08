@@ -8,7 +8,7 @@
     2. Speak or type your custom instruction or query.
     3. The AI Assistant will process your input and provide a response based on the query.
 
-![Custom Prompt UI](IMG-20250208-WA0022.jpg)
+![Custom Prompt UI](IMG-20250208-WA0024.jp)
 
 ### 2. Custom Prompt with Image:
 
@@ -18,7 +18,7 @@
     2. Speak or type your custom instruction and upload an image.
     3. The AI Assistant will analyze the image in conjunction with your prompt to provide a relevant response.
 
-![Custom Prompt with Image UI](IMG-20250208-WA0023.jpg)
+![Custom Prompt with Image UI](IMG-20250208-WA0025.jpg)
 
 ### 3. Describe Image:
 
@@ -28,7 +28,7 @@
     2. Upload or capture an image using the app's camera.
     3. The AI Assistant will generate a descriptive text summarizing the content of the image.
 
-![Describe Image UI](IMG-20250208-WA0024.jpg)
+![Describe Image UI](IMG-20250208-WA0022.jpg)
 
 ### 4. Image to Text:
 
@@ -38,7 +38,7 @@
     2. Upload or capture an image that contains text.
     3. The AI Assistant will process the image and provide the extracted text for you to view.
 
-![Image to Text UI](IMG-20250208-WA0025.jpg)
+![Image to Text UI](IMG-20250208-WA0023.jpg)
 
 ---
 
