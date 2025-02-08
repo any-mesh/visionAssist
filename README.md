@@ -44,7 +44,7 @@
 
 Watch the demo video of the Blind App:
 
-[![Demo Video](WhatsApp Video 2025-02-08 at 15.08.24_3f3d0343.mp4)
+[![Demo Video](demo.mp4)
 
 ---
 
