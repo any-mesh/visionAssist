@@ -40,6 +40,12 @@
 
 ![Image to Text UI](IMG-20250208-WA0023.jpg)
 
+### Demo Video
+
+Watch the demo video of the Blind App:
+
+[![Demo Video](WhatsApp Video 2025-02-08 at 15.08.24_3f3d0343.mp4)
+
 ---
 
 ### Technologies:
