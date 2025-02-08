@@ -8,7 +8,7 @@
     2. Speak or type your custom instruction or query.
     3. The AI Assistant will process your input and provide a response based on the query.
 
-![Custom Prompt UI](IMG-20250208-WA0024.jp)
+![Custom Prompt UI](IMG-20250208-WA0024.jpg)
 
 ### 2. Custom Prompt with Image:
 
