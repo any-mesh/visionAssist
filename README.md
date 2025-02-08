@@ -44,7 +44,7 @@
 
 Watch the demo video of the Blind App:
 
-https://raw.githubusercontent.com/any-mesh/visionAssist/refs/heads/main/demo.mp4
+https://github.com/user-attachments/assets/6916e34c-cdd5-4c8b-91f9-c59da3934ee1
 
 ---
 
